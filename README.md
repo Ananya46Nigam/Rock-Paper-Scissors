@@ -15,4 +15,12 @@ Output for Python Code:
 Output for Java Code:
 
 
+![image](https://github.com/Ananya46Nigam/Rock-Paper-Scissors/assets/80421780/56937af9-d6cb-4071-afaa-ab62a5085d09)
 
+
+
+![image](https://github.com/Ananya46Nigam/Rock-Paper-Scissors/assets/80421780/2615dbe1-e225-4a29-a4cf-2df4a7981bbd)
+
+
+
+![image](https://github.com/Ananya46Nigam/Rock-Paper-Scissors/assets/80421780/56afdf28-ec52-4420-9d7f-73734fa62e20)
