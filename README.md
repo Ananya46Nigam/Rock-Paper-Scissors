@@ -24,3 +24,16 @@ Output for Java Code:
 
 
 ![image](https://github.com/Ananya46Nigam/Rock-Paper-Scissors/assets/80421780/56afdf28-ec52-4420-9d7f-73734fa62e20)
+
+
+
+
+Output for Java code:
+
+
+
+![image](https://github.com/Ananya46Nigam/Rock-Paper-Scissors/assets/80421780/5a76b678-333b-4591-8ab1-78a755a78e2b)
+
+
+
+![image](https://github.com/Ananya46Nigam/Rock-Paper-Scissors/assets/80421780/af0d4532-0106-4c76-a6dd-3e604d80e8c6)
